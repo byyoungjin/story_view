@@ -1,3 +1,6 @@
+It is fork from (story_view)[https://pub.dev/packages/story_view]
+to use rxdart version 0.28.0
+
 # story_view [![Pub](https://img.shields.io/pub/v/story_view.svg)](https://pub.dev/packages/story_view)
 
 Story view for apps with stories.
